@@ -1,0 +1,8 @@
+db/
+greybox_tmp/
+incremental_db/
+output_files/
+simulation/
+*.bsf
+*.v.bak
+*.rpt
